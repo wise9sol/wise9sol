@@ -65,9 +65,9 @@ I build **QA Automation systems** using:
 
 ## 📬 Work With Me
 
-📧 your@email.com  
-🌐 (add your site when ready)  
-📅 (add Calendly link)
+📧 wise9mind.solutions@gmail.com 
+🌐 9mindtech.com  
+📅 https://calendly.com/9mindtech_qa-automation-call
 
 ---
 

@@ -1,82 +1,63 @@
-# 👋 9MindTech | Quality Engineering & QA Automation
+# Hi, I'm Benjamin 👋
 
-Helping software teams ship faster with confidence by reducing bugs before release.
+### Founder & CEO @ 9MindTech AI | QA Automation & AI-Powered Testing
 
----
-
-## 🚀 What I Do
-
-I build **QA Automation systems** using:
-
-- Python
-- Pytest
-- Playwright
-- GitHub Actions (CI/CD)
+I build quality engineering systems that help startups ship software faster and with confidence — without needing a full in-house QA team.
 
 ---
 
-## 🎯 Who I Help
+## What I Do
 
-- SaaS startups
-- Small development teams
-- Agencies building web apps
-- Products with frequent releases
+**9MindTech AI** is a QA-as-a-Service firm delivering enterprise-grade test automation as a managed service. Our platform product, **QualiOps AI**, combines AI-powered test planning with production-ready automation frameworks.
 
----
-
-## ⚡ What You Get
-
-✔ Smoke test automation (core flows)  
-✔ Regression test foundation  
-✔ Faster release cycles  
-✔ Reduced manual testing  
-✔ CI-ready automation pipelines  
+- 🎯 UI automation with Playwright (cross-browser, parallel execution)
+- 🔌 API testing with full CRUD + schema validation
+- 🌐 Network reliability testing via Chrome DevTools Protocol
+- 🤖 AI-powered test planning with the Anthropic SDK
+- 📊 Real-time reporting with Allure + pytest-html
+- ⚙️ CI/CD integration with GitHub Actions
 
 ---
 
-## 📦 Core Services
+## Tech Stack
 
-### 🔹 QA Automation Starter (Most Popular)
-- Test plan
-- Smoke test suite
-- Critical flow automation
-- CI integration
-- Bug report + recommendations
-
----
-
-## 🧪 Featured Work
-
-### 🔧 9MindTech Quality Engineering Framework
-👉 Scalable QA automation framework with UI + API testing
-
-### ⚙️ Automation Framework
-👉 Production-style automation structure with CI workflows
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-1.51.0-green?style=flat-square)
+![Pytest](https://img.shields.io/badge/Pytest-8.3.5-orange?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-blue?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-supported-blue?style=flat-square)
+![Anthropic](https://img.shields.io/badge/Anthropic_SDK-0.49.0-purple?style=flat-square)
 
 ---
 
-## 📊 What Makes This Different
+## Service Tiers
 
-- Built for **real-world usage**, not just demos
-- Focus on **business-critical flows**
-- Designed for **fast implementation (not over-engineering)**
-
----
-
-## 📬 Work With Me
-
-📧 wise9mind.solutions@gmail.com 
-🌐 9mindtech.com  
-📅 https://calendly.com/9mindtech_qa-automation-call
+| Tier | Description | Price |
+|---|---|---|
+| **QA Audit** | Full coverage audit + recommendations | $500 / 48hr delivery |
+| **Automation Setup** | Complete framework build for your stack | $2,500 |
+| **QaaS** | Ongoing coverage + reports + Slack + strategy call | $3,000–$5,000/month |
 
 ---
 
-## ⚡ Tech Stack
+## Featured Repos
 
-Python | Pytest | Playwright | CI/CD | API Testing | Automation Strategy
+| Repo | Description |
+|---|---|
+| [9mindtech-quality-engineering-framework](https://github.com/wise9sol/9mindtech-quality-engineering-framework) | Core QualiOps AI framework — live CI runs, full stack |
+| [automation-framework](https://github.com/wise9sol/automation-framework) | Modular automation framework for UI, API, and network testing |
 
 ---
 
-## 🔥 Mission
+## Let's Work Together
 
-Build systems that catch issues **before your users do.**
+If your team is shipping fast but QA coverage is lagging — let's talk.
+
+- 🌐 [Book a Free 20-Min QA Strategy Call](https://calendly.com/9mindtech_qa-automation-call)
+- 📧 wise9mind.solutions@gmail.com
+- 📞 (240) 269-8965
+
+---
+
+*9MindTech AI · Powered by QualiOps AI · Maryland, USA*
+

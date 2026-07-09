@@ -2,7 +2,7 @@
 
 <img src="https://9mindtech.com/logo.png" width="120" alt="9MindTech QualiOps AI Logo" style="border-radius:20%"/>
 
-# Baah Pedi-Rayay
+# Benjamin "Baah" Baisden
 ### Founder & CEO · [9MindTech](https://9mindtech.com) · QualiOps AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9MindTech-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/9mindtech)
